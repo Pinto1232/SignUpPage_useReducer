@@ -10,3 +10,8 @@
   justify-content: center;
   margin-top: 10em;
 }
+
+body {
+  background-color: #2a2a72;
+  background-image: linear-gradient(333deg, #2a2a72 0%, #009ffd 0%);
+}
